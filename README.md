@@ -90,8 +90,8 @@ Hire-quick/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/devakowakou/Hire-quick.git
-cd Hire-quick/fastapi_app
+git clone https://github.com/devakowakou/hire-quick-app.git
+cd hire-quick-app/fastapi_app
 ```
 
 ### 2. Install Dependencies
