@@ -215,9 +215,9 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 For support and questions:
-- **Email**: iradukundavierra4@gmail.com
+- **Email**: akowakou.dev@gmail.com
 - **Documentation**: [API Docs](https://your-domain.com/docs)
-- **Issues**: [GitHub Issues](https://github.com/unmatched78/Hire-quick/issues)
+- **Issues**: [GitHub Issues](https://github.com/devakowakou/Hire-quick-app/issues)
 
 ## 🎯 Roadmap
 
